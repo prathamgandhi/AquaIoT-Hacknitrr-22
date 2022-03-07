@@ -1,5 +1,8 @@
 # **Team billionstars | HackNitrr** :briefcase:
 
+## Note : 
+In this project, I myself have worked on the django based backend and establishing the connection between the IoT device and the frontend. The original repository can be found at https://github.com/billion-stars/HACKNITRR-BILLIONSTARS.
+
 ## Problem Statement :
 Disposal of waste water from the industries is one of the biggest issues in the modern industrial world. This leads to pollution of water bodies and endangers the aquatic life. Factories and industries need to ensure that the effluents disposed off into these water bodies are first purified and the various risk factors are mild down as much as possible. 
 
